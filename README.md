@@ -1,4 +1,4 @@
-<h2 align="left"> 👋 Hello, I'm Tanay Yadav</h2>
+<h2 align="left"> 👋 Hello, I'm Suyash Bajpai</h2>
 
 🎓 I'm a Computer Science and Engineering student at *Pranveer Singh Institute of Technology (PSIT), Kanpur*.
 
